@@ -184,6 +184,7 @@ section:nth-child(2) {
 
     main {
         width: 85%;
+        max-width: 500px;
         margin: 70px 0;
     }
 
@@ -238,6 +239,7 @@ section:nth-child(2) {
 
     .testimonials {
         width: 100%;
+        height: unset;
         margin-bottom: 15px;
     }
 }
