@@ -75,9 +75,8 @@ h1 {
     align-items: center;
     background-color: var(--light-grayish-magenta);
     border-radius: 10px;
-    height: 55px;
     width: 85%;
-    padding: 15px 30px;
+    padding: 19px 30px;
     margin: 10px 0;
 }
 
@@ -163,7 +162,12 @@ section:nth-child(2) {
     color: var(--soft-pink);
 }
 
+.quote {
+    height: 60%;
+    overflow: scroll;
+}
+
 .quote p {
     color: var(--light-grayish-magenta);
-    line-height: 2em;
+    line-height: 1.5em;
 }
