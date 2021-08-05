@@ -24,6 +24,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 50px;
 }
 
@@ -32,7 +33,6 @@ body {
 main {
     width: 85%;
     max-width: 1110px;
-    margin-top: 50px;
 }
 
 section {
