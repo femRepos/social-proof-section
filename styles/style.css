@@ -58,6 +58,7 @@ h1 {
     color: var(--dark-grayish-magenta);
     margin: 20px 0;
     line-height: 1.5em;
+    font-weight: 500;
 }
 
 /* Rating section */
@@ -167,6 +168,10 @@ section:nth-child(2) {
     overflow: scroll;
 }
 
+.name {
+    font-size: 1.2em;
+}
+
 .quote p {
     color: var(--light-grayish-magenta);
     line-height: 1.5em;
@@ -177,7 +182,6 @@ section:nth-child(2) {
 
     body {
         background: url(../images/bg-pattern-top-mobile.svg) no-repeat top, url(../images/bg-pattern-bottom-mobile.svg) no-repeat bottom;
-        font-size: 14px;
     }
 
     /* MAIN */
