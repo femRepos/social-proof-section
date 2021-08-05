@@ -169,7 +169,7 @@ section:nth-child(2) {
 }
 
 .quote p {
-    color: var(--light-grayish-magenta);
+    color: var(--white);
     line-height: 1.5em;
 }
 
